@@ -1,0 +1,46 @@
+img {
+  width: 500px;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1 {
+  text-align: center;
+  color: plum;
+  text-shadow: 3px 2px rgba(195, 0, 255, 0.466);
+  background-color: powderblue;
+  font-family: "Verdana", sans-serif;
+}
+
+h2 {
+  color: darkorchid;
+  font-family: Helvetica, sans-serif;
+  font-style: italic;
+
+}
+
+h3{
+  background-color: lightpink;
+  color: orangered;
+  font-weight: 500;
+  font-size: 22px;
+  text-align: center;
+}
+.index{
+  background-color: hotpink;
+  color: green;
+  font-family: Arial;
+  text-align: center;
+  list-style-position: inside;
+  font-size: 22px;
+}
+
+a{
+  color: lightgreen;
+  font-weight: bold;
+}
+p, li{
+  font-family:'Courier New', Courier, monospace;
+}
